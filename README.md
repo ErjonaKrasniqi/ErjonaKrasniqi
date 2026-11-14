@@ -1,6 +1,6 @@
 # Hi, I'm Erjona 
 
-**Software Engineer · MSc Computer Science student**
+**Software Engineer · MSc Computer Science student at the University of Prishtina “Hasan Prishtina”**
 
 I build software across the stack: machine learning pipelines in Python, concurrent client–server systems in Java, cryptographic tools and interactive web applications. Currently open to software engineering roles and internships.
 
