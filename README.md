@@ -13,7 +13,7 @@ I build software across the stack: machine learning pipelines in Python, concurr
 | [Heart Disease Prediction](https://github.com/ErjonaKrasniqi/heart-disease-prediction) | ML pipeline on 10,000 patient records, comparing models before and after preprocessing | Python, pandas, scikit-learn |
 | [Distributed Chat System](https://github.com/ErjonaKrasniqi/distributed-chat-system) | Multi-room chat server with thread-safe, producer–consumer broadcasting | Java, Sockets, JavaFX |
 | [Cryptography Toolkit](https://github.com/ErjonaKrasniqi/cryptography-toolkit) | Classical to modern ciphers, RSA-2048 encryption and digital signatures | Java, JCA |
-| [BLOOM Flower Shop](https://github.com/ErjonaKrasniqi/bloom-flower-shop) | Seven-page flower shop with filtering, JSON catalogue and cart | HTML, CSS, JavaScript |
+| [BLOOM Flower Shop](https://github.com/ErjonaKrasniqi/bloom-flower-shop) | Team project: seven-page flower shop with filtering, JSON catalogue and cart | HTML, CSS, JavaScript |
 | [Memory Game](https://github.com/ErjonaKrasniqi/memory-game) | Card-matching game built with the MVC pattern | Java, Swing |
 
 ## Tech
