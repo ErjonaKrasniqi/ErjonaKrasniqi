@@ -4,7 +4,9 @@
 
 I build software across the stack: machine learning pipelines in Python, concurrent client–server systems in Java, cryptographic tools and interactive web applications. Currently open to software engineering roles and internships.
 
-🌐 **Portfolio:** [erjonakrasniqi.github.io](https://erjonakrasniqi.github.io)
+🌐 **Portfolio:** [erjonakrasniqi.github.io](https://erjonakrasniqi.github.io)  
+💼 **LinkedIn:** [erjona-krasniqi](https://www.linkedin.com/in/erjona-krasniqi-b07b9728b/)  
+📫 **Email:** krasniqierionaa@gmail.com
 
 ## Featured projects
 
