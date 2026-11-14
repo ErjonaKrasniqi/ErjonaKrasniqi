@@ -1,4 +1,4 @@
-# Hi, I'm Erjona 👋
+# Hi, I'm Erjona 
 
 **Software Engineer · MSc Computer Science student**
 
